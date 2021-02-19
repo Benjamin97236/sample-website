@@ -1,2 +1,2 @@
 This is just a sample website that I created in HTML5 and CSS3 in just one hour.
-Nothing more to say really
+Nothing more to say really, other than that it is not responsive 
